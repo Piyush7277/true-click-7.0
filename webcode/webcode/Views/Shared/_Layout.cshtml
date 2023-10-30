@@ -1,0 +1,135 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+    <title>TrueClick</title>
+    <meta name="description" content="@ViewBag.MetaDesc" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Open+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" type="image/x-icon" href="~/assets/images/favicon.svg">
+    <link href="~/assets/css/bootstrap-grid.min.css" rel="stylesheet">
+    <link href="~/assets/css/icons.css" rel="stylesheet">
+    <link href="~/assets/css/slick.css" rel="stylesheet">
+    <link href="~/assets/css/custom.css" rel="stylesheet">
+
+</head>
+<body class="cm-dark-bg">
+    <div class="body-wrapper">
+        <header class="custom-header">
+            <div class="container">
+                <nav class="custom-navbar">
+                    <div class="custom-logo">
+                        <a href="~/">
+                            <img src="~/assets/images/logo.svg" alt="logo">
+                        </a>
+                    </div>
+
+                    <ul class="login-lenu-mobile">
+                        <li><a href="~/register" class="site-btn">CREATE FREE ACCOUNT</a></li>
+                        <li><a href="~/login">Login</a></li>
+                    </ul>
+
+                    <div class="menu-trigger">
+                        <div class="trigger-in">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </div>
+                    </div>
+
+
+
+                    <div class="custom-menu-wrap">
+                        <ul class="custom-menu-primary">
+                            <li class="menu-item active"><a href="~/">Home</a></li>
+                            <li class="menu-item"><a asp-action="about" asp-controller="home">About Us</a></li>
+                            <li class="menu-item"><a asp-action="contact" asp-controller="home">Contact Us</a></li>
+                            <li class="menu-item"><a asp-action="plan" asp-controller="home">Our Plan</a></li>
+                        </ul>
+                        <ul class="login-lenu">
+                            <li><a asp-action="registration" asp-controller="home" class="site-btn">CREATE FREE ACCOUNT</a></li>
+                            <li><a asp-action="login" asp-controller="home">Login</a></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </header>
+
+        @RenderBody()
+
+        <footer class="custom-footer">
+
+            <div class="top-footer">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-2w4">
+                            <h4 class="footer_title">About Us</h4>
+                            <div class="footer-about">
+                                Introducing trueclick, is the innovative digital advertising that puts money back into the hands of viewers. Trueclick understand  that like and subscribe...<a href="~/about">Read More</a>
+                            </div>
+                        </div>
+                        <div class="col-lg-2w4 space-quick-link">
+                            <h4 class="footer_title">Quick Links</h4>
+                            <ul class="footer_link">
+                                <li><a asp-action="about" asp-controller="home">About Us</a></li>
+                                <li><a asp-action="contact" asp-controller="home">Contact Us</a></li>
+                                <li><a asp-action="plan" asp-controller="home">Our Plan</a></li>
+                                <li><a asp-action ="registration" asp-controller="home">Register</a></li>
+                                <li><a asp-action="login" asp-controller="home">Login</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-lg-2w4 space-quick-link">
+                            <h4 class="footer_title">Policies</h4>
+                            <ul class="footer_link">
+                                <li><a href="#">Disclaimer</a></li>
+                                <li><a href="#">Privacy Policy</a></li>
+                                <li><a href="#">Terms & Condition</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-lg-2w4">
+                            <h4 class="footer_title">Newsletter</h4>
+                            <div class="newsletter">
+                                <p>Subscribe our newsletter for get Update</p>
+                                <form>
+                                    <div class="cm-form-group-news">
+                                        <input type="email" required="required" placeholder="Email Address" class="cm-form-control" name="email">
+                                        <input type="submit" class="newlette-btn site-btn" value="Send Enquery">
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="bottom_footer">
+                <div class="container">
+                    <div class="seprator"></div>
+                    <div class="row align-items-center">
+                        <div class="col-md-8">
+                            <div class="copyright">
+                                © @DateTime.Now.Year All Rights Reserved. Design by <a href="~/"><strong>True Click</strong></a>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <ul class="footer_social_link">
+                                <li><a href=" https://www.facebook.com/profile.php?id=61552568640766"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="https://www.instagram.com/Truclick7/"><i class="fa fa-instagram"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </footer>
+    </div>
+    <script src="~/assets/js/jquery.min.js"></script>
+    <script src="~/assets/js/slick.min.js"></script>
+    <script src="~/assets/js/custom.js"></script>
+</body>
+</html>

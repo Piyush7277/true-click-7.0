@@ -1,0 +1,185 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = webcode
+build_property.RootNamespace = webcode
+build_property.ProjectDir = D:\Work\Codetrex\true-click-7.0\webcode\webcode\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Work\Codetrex\true-click-7.0\webcode\webcode
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Home/ForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb3JnZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Home/Plan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQbGFuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Home/Registration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3RyYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/HO/AddFundInWallet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSE9cQWRkRnVuZEluV2FsbGV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/HO/DeductFundFromWallet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSE9cRGVkdWN0RnVuZEZyb21XYWxsZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/HO/FundRechargeRequestReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSE9cRnVuZFJlY2hhcmdlUmVxdWVzdFJlcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/HO/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSE9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/HO/Invester.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSE9cSW52ZXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/HO/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSE9cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/HO/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSE9cTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/HO/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSE9cUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/HO/UpdateCoinRate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSE9cVXBkYXRlQ29pblJhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/HO/WithdrawalRequestList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSE9cV2l0aGRyYXdhbFJlcXVlc3RMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Member/AddView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXEFkZFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Member/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXENoYW5nZVBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Member/DhanuWalletReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXERoYW51V2FsbGV0UmVwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Member/DirectReferralReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXERpcmVjdFJlZmVycmFsUmVwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Member/FundRechargeRequestReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXEZ1bmRSZWNoYXJnZVJlcXVlc3RSZXBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Member/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Member/LevelIncomeReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXExldmVsSW5jb21lUmVwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Member/ManageSecurityPin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXE1hbmFnZVNlY3VyaXR5UGluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Member/MemberInvestment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXE1lbWJlckludmVzdG1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Member/PinAuthentication.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXFBpbkF1dGhlbnRpY2F0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Member/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXFByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Member/PurchasePlan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXFB1cmNoYXNlUGxhbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Member/RewardReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXFJld2FyZFJlcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Member/RoiIncomeReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXFJvaUluY29tZVJlcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Member/TeamReferralReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXFRlYW1SZWZlcnJhbFJlcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Member/WalletRecharge.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXFdhbGxldFJlY2hhcmdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Member/WidthdrawalRequestList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyXFdpZHRoZHJhd2FsUmVxdWVzdExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Shared/_HOLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IT0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-gnym5nd5u8
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-xdelxll6wb
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Shared/_LayoutAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBY2NvdW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-2fhpjrub28
+
+[D:/Work/Codetrex/true-click-7.0/webcode/webcode/Views/Shared/_Layoutmember.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRtZW1iZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-vww4h3cn7r

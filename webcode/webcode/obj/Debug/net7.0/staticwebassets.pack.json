@@ -1,0 +1,625 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\webcode.bundle.scp.css",
+      "PackagePath": "staticwebassets\\webcode.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\blogImage\\blogbanner.png",
+      "PackagePath": "staticwebassets\\assets\\blogImage\\blogbanner.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\blogImage\\facebook.png",
+      "PackagePath": "staticwebassets\\assets\\blogImage\\facebook.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\blogImage\\howDoseBaapNetwork.jpg",
+      "PackagePath": "staticwebassets\\assets\\blogImage\\howDoseBaapNetwork.jpg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\blogImage\\instagram.png",
+      "PackagePath": "staticwebassets\\assets\\blogImage\\instagram.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\blogImage\\linkedin.png",
+      "PackagePath": "staticwebassets\\assets\\blogImage\\linkedin.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\blogImage\\pinterest.png",
+      "PackagePath": "staticwebassets\\assets\\blogImage\\pinterest.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\blogImage\\post.png",
+      "PackagePath": "staticwebassets\\assets\\blogImage\\post.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\blogImage\\post1.png",
+      "PackagePath": "staticwebassets\\assets\\blogImage\\post1.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\blogImage\\post2.png",
+      "PackagePath": "staticwebassets\\assets\\blogImage\\post2.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\blogImage\\post3.png",
+      "PackagePath": "staticwebassets\\assets\\blogImage\\post3.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\blogImage\\post4.png",
+      "PackagePath": "staticwebassets\\assets\\blogImage\\post4.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\blogImage\\post5.png",
+      "PackagePath": "staticwebassets\\assets\\blogImage\\post5.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\blogImage\\postBanner.png",
+      "PackagePath": "staticwebassets\\assets\\blogImage\\postBanner.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\blogImage\\reddit.png",
+      "PackagePath": "staticwebassets\\assets\\blogImage\\reddit.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\blogImage\\search.png",
+      "PackagePath": "staticwebassets\\assets\\blogImage\\search.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\blogImage\\telegram.png",
+      "PackagePath": "staticwebassets\\assets\\blogImage\\telegram.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\blogImage\\twitter.png",
+      "PackagePath": "staticwebassets\\assets\\blogImage\\twitter.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\blogImage\\whatIsBaapNetwork.jpg",
+      "PackagePath": "staticwebassets\\assets\\blogImage\\whatIsBaapNetwork.jpg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\blogImage\\youtube.png",
+      "PackagePath": "staticwebassets\\assets\\blogImage\\youtube.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\css\\custom.css",
+      "PackagePath": "staticwebassets\\assets\\css\\custom.css"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\css\\icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons.css"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\about-img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about-img.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\blob.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\blob.svg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\contact-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-image.jpg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\contact-image.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-image.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\contact-img.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-img.svg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\debug.log",
+      "PackagePath": "staticwebassets\\assets\\images\\debug.log"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\favicon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.svg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\globe1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\globe1.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\group-circle.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\group-circle.jpg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\group-circle.png",
+      "PackagePath": "staticwebassets\\assets\\images\\group-circle.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\grow-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\grow-img.jpg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\logo-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-dark.svg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\quote-admin.png",
+      "PackagePath": "staticwebassets\\assets\\images\\quote-admin.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\quote.png",
+      "PackagePath": "staticwebassets\\assets\\images\\quote.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\side-banner-image-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\side-banner-image-2.jpg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\side-banner-image-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\side-banner-image-3.jpg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\side-banner-image-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\side-banner-image-3.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\side-banner-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\side-banner-image.jpg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\social-media-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\social-media-image.jpg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\social-media.png",
+      "PackagePath": "staticwebassets\\assets\\images\\social-media.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\success-check.png",
+      "PackagePath": "staticwebassets\\assets\\images\\success-check.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\sucess-img1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sucess-img1.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\targate.png",
+      "PackagePath": "staticwebassets\\assets\\images\\targate.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\team.png",
+      "PackagePath": "staticwebassets\\assets\\images\\team.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\univercel.png",
+      "PackagePath": "staticwebassets\\assets\\images\\univercel.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\user.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\user2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user2.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\user3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user3.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\wallet.png",
+      "PackagePath": "staticwebassets\\assets\\images\\wallet.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\winner-image\\congratulations-gif-5.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\winner-image\\congratulations-gif-5.gif"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\images\\winner-image\\congratulations.png",
+      "PackagePath": "staticwebassets\\assets\\images\\winner-image\\congratulations.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets_backend\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\css\\custom.css",
+      "PackagePath": "staticwebassets\\assets_backend\\css\\custom.css"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\css\\dataTables.css",
+      "PackagePath": "staticwebassets\\assets_backend\\css\\dataTables.css"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\css\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\assets_backend\\css\\daterangepicker.css"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\css\\icons.css",
+      "PackagePath": "staticwebassets\\assets_backend\\css\\icons.css"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\css\\slick.css",
+      "PackagePath": "staticwebassets\\assets_backend\\css\\slick.css"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets_backend\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets_backend\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets_backend\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets_backend\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\GoldAward.png",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\GoldAward.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\Group44092.png",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\Group44092.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\SilverAward.png",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\SilverAward.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\congrats.png",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\congrats.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\dhanu1.png",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\dhanu1.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\dhanuQR.png",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\dhanuQR.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\doller.png",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\doller.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\favicon.svg",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\favicon.svg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\image-bg-alternet.png",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\image-bg-alternet.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\logo-dark.svg",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\logo-dark.svg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\offerBanner.jpg",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\offerBanner.jpg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\oppsImg.jpg",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\oppsImg.jpg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\power_settings_new.svg",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\power_settings_new.svg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\profile.png",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\profile.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\rupees.png",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\rupees.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\securty.png",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\securty.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\select-profile.png",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\select-profile.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\sort_asc.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\sort_both.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\sort_desc.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\sprits-images.png",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\sprits-images.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\sprits.psd",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\sprits.psd"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\successImg.jpg",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\successImg.jpg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\usdt.png",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\usdt.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\usdtQR.png",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\usdtQR.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\user.png",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\user.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\wallet.png",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\wallet.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\withdrawalDhanu.png",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\withdrawalDhanu.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\images\\withdrawalUSDT.png",
+      "PackagePath": "staticwebassets\\assets_backend\\images\\withdrawalUSDT.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\js\\Chart.js",
+      "PackagePath": "staticwebassets\\assets_backend\\js\\Chart.js"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets_backend\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\js\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\assets_backend\\js\\daterangepicker.js"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\assets_backend\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets_backend\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets_backend\\js\\moment.min.js"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_backend\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets_backend\\js\\slick.min.js"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets_ho\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\css\\custom.css",
+      "PackagePath": "staticwebassets\\assets_ho\\css\\custom.css"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\css\\dataTables.css",
+      "PackagePath": "staticwebassets\\assets_ho\\css\\dataTables.css"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\css\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\assets_ho\\css\\daterangepicker.css"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\css\\icons.css",
+      "PackagePath": "staticwebassets\\assets_ho\\css\\icons.css"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\css\\slick.css",
+      "PackagePath": "staticwebassets\\assets_ho\\css\\slick.css"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets_ho\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets_ho\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets_ho\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets_ho\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\images\\favicon.svg",
+      "PackagePath": "staticwebassets\\assets_ho\\images\\favicon.svg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\images\\logo-dark.svg",
+      "PackagePath": "staticwebassets\\assets_ho\\images\\logo-dark.svg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\assets_ho\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\images\\power_settings_new.svg",
+      "PackagePath": "staticwebassets\\assets_ho\\images\\power_settings_new.svg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\images\\profile.png",
+      "PackagePath": "staticwebassets\\assets_ho\\images\\profile.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\images\\select-profile.png",
+      "PackagePath": "staticwebassets\\assets_ho\\images\\select-profile.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\images\\social-media.png",
+      "PackagePath": "staticwebassets\\assets_ho\\images\\social-media.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\assets_ho\\images\\sort_asc.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\assets_ho\\images\\sort_both.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\assets_ho\\images\\sort_desc.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\images\\sprits-images.png",
+      "PackagePath": "staticwebassets\\assets_ho\\images\\sprits-images.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\images\\sprits.psd",
+      "PackagePath": "staticwebassets\\assets_ho\\images\\sprits.psd"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\images\\user.png",
+      "PackagePath": "staticwebassets\\assets_ho\\images\\user.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\js\\Chart.js",
+      "PackagePath": "staticwebassets\\assets_ho\\js\\Chart.js"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets_ho\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\js\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\assets_ho\\js\\daterangepicker.js"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\assets_ho\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets_ho\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets_ho\\js\\moment.min.js"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\assets_ho\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets_ho\\js\\slick.min.js"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\paymentreceipt\\010ca212-8c52-46b0-b1d2-05dc19f5e8e7.png",
+      "PackagePath": "staticwebassets\\paymentreceipt\\010ca212-8c52-46b0-b1d2-05dc19f5e8e7.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\paymentreceipt\\02d0917a-eb27-40a5-af7c-7224dc73fe7b.jpg",
+      "PackagePath": "staticwebassets\\paymentreceipt\\02d0917a-eb27-40a5-af7c-7224dc73fe7b.jpg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\paymentreceipt\\0af5c219-cb89-4213-8a70-cbdc825c03b6.png",
+      "PackagePath": "staticwebassets\\paymentreceipt\\0af5c219-cb89-4213-8a70-cbdc825c03b6.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\paymentreceipt\\328c376e-5ab6-4a35-adc8-93008b53fc5d.png",
+      "PackagePath": "staticwebassets\\paymentreceipt\\328c376e-5ab6-4a35-adc8-93008b53fc5d.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\paymentreceipt\\37313176-a980-4c8f-bbf9-a1ecfcfcb488.png",
+      "PackagePath": "staticwebassets\\paymentreceipt\\37313176-a980-4c8f-bbf9-a1ecfcfcb488.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\paymentreceipt\\91fea36c-4393-402e-9622-439fce9bbaab.png",
+      "PackagePath": "staticwebassets\\paymentreceipt\\91fea36c-4393-402e-9622-439fce9bbaab.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\paymentreceipt\\95610960-b634-4db0-bc15-56e19225b901.png",
+      "PackagePath": "staticwebassets\\paymentreceipt\\95610960-b634-4db0-bc15-56e19225b901.png"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\paymentreceipt\\b8d31536-f1fb-4712-a575-8144376d58d6.jpg",
+      "PackagePath": "staticwebassets\\paymentreceipt\\b8d31536-f1fb-4712-a575-8144376d58d6.jpg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\paymentreceipt\\f00644a5-fe2b-4df3-b251-ca04c04efeb7.jpg",
+      "PackagePath": "staticwebassets\\paymentreceipt\\f00644a5-fe2b-4df3-b251-ca04c04efeb7.jpg"
+    },
+    {
+      "Id": "D:\\Work\\Codetrex\\true-click-7.0\\webcode\\webcode\\wwwroot\\paymentreceipt\\fd04aa8e-d40f-4918-b460-4a76a3007200.png",
+      "PackagePath": "staticwebassets\\paymentreceipt\\fd04aa8e-d40f-4918-b460-4a76a3007200.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.webcode.props",
+      "PackagePath": "build\\webcode.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.webcode.props",
+      "PackagePath": "buildMultiTargeting\\webcode.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.webcode.props",
+      "PackagePath": "buildTransitive\\webcode.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.webcode.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
